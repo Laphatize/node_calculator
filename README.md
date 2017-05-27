@@ -11,7 +11,7 @@ First;
 > console.log(Test)
 
 Then;
-> node calculator.js
+> node calculator.js 
 
 
 
