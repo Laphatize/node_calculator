@@ -8,7 +8,8 @@ Please have node.js already installed on your computer.
 
 First;
 > node
-> console.log(Test)
+> console.log(Test);
+> console.log("This is a calculation" + " " + (1+1))
 
 Then;
 > node calculator.js 
