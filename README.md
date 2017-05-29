@@ -1,4 +1,4 @@
-[![Latest version]()]
+[![Latest version]([![Latest version](https://img.shields.io/npm/v/github-api.svg?maxAge=3600)][npm-package])]
 # node_calculator
 (Terminal Based)
 Please save to Desktop.
