@@ -1,3 +1,4 @@
+[![Latest version]()]
 # node_calculator
 (Terminal Based)
 Please save to Desktop.
