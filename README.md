@@ -7,14 +7,15 @@ Please have node.js already installed on your computer.
 
 
 First;
-> node
+``` node
 > console.log("Test"); 
 > If the response is Test, then node is working properly.
 > .quit (To exit Node)
-
+```
 Then;
+```
 > node calculator.js (Runs the program)
-
+```
 
 
 To edit calculations, you will have to go within a editor and change the values of "Number1" and "Number2".
