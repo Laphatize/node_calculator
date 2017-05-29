@@ -1,4 +1,4 @@
-[![Latest version]([![Latest version](https://img.shields.io/npm/v/github-api.svg?maxAge=3600)][npm-package])]
+![(https://janikvonrotz.ch/wp-content/uploads/2014/03/Node.js-Logo.png)]
 # node_calculator
 (Terminal Based)
 Please save to Desktop.
