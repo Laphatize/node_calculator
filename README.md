@@ -1,4 +1,4 @@
-![nodeJS logo]: (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) "Built with node"
+[logo]: https://janikvonrotz.ch/wp-content/uploads/2014/03/Node.js-Logo.png "Logo Title Text 2"
 # node_calculator
 (Terminal Based)
 Please save to Desktop.
