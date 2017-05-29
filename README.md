@@ -8,8 +8,9 @@ Please have node.js already installed on your computer.
 
 First;
 > node
-> console.log(Test);
-> .quit
+> console.log("Test"); 
+> If the response is Test, then node is working properly.
+> .quit (To exit Node)
 
 Then;
 > node calculator.js (Runs the program)
